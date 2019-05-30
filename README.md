@@ -1,4 +1,4 @@
-# gcloud_entities
+# Python NLP Entity Recognition
 Find the entities mentioned in a text via the Google Cloud Language API
 
 ### Main function: find_entities(text, max_entities)
